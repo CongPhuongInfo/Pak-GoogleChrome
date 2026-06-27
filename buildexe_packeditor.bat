@@ -45,7 +45,7 @@ echo [INFO] Dung compiler: !VBC!
 /r:System.Drawing.dll ^
 /optimize+ ^
 /platform:x86 ^
-/out:%cd%\PackEditor.exe ^
-"%cd%\Program.vb"
+/out:%cd%\PakChrome.exe ^
+"%cd%\PakChrome.vb"
 
 endlocal
